@@ -5,7 +5,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 I'm CelestialRatnam from India and I am Software engineer. I really enjoy Learning Languages.
 
 Skills: 
-* C /Java / Python 
+* C / Java / Python 
 * Mysql
 
 
